@@ -28,4 +28,3 @@ npm start
 
 La tasa de ahorro y el precio mensual están centralizados en las constantes
 `SAVINGS_RATE` y `MONTHLY_PRICE_PER_VEHICLE` de `app/page.tsx`.
-
